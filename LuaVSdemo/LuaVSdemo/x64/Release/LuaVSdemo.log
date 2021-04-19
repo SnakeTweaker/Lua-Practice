@@ -1,0 +1,7 @@
+﻿  lua.c
+  Generating code
+  31 of 31 functions (100.0%) were compiled.
+    26 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  LuaVSdemo.vcxproj -> C:\Users\Ceej\VisualStudio\Lua\LuaScripting\LuaVSdemo\x64\Release\LuaVSdemo.exe
